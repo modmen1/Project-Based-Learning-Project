@@ -1,0 +1,1 @@
+var json_2BramaWjazdowa_10 = {"type":"FeatureCollection","name":"2BramaWjazdowa_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n7848981027","osm_id":"7848981027","osm_type":"node","barrier":"Brama Wjazdowa","access":"yes"},"geometry":{"type":"Point","coordinates":[19.1123038,51.5922518]}}]}
